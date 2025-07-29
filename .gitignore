@@ -22,3 +22,4 @@ logs/
 # IDE-specific files
 .idea/
 .vscode/
+data.db
