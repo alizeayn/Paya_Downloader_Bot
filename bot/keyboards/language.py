@@ -1,7 +1,6 @@
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 def get_language_keyboard() -> InlineKeyboardMarkup:
-    """ساخت کیبورد inline برای انتخاب زبان"""
     buttons = [
         [
             InlineKeyboardButton(text="فارسی", callback_data="lang_fa"),

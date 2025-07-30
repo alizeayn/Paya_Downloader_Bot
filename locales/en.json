@@ -1,4 +1,6 @@
 {
     "welcome": "Welcome to the Bot! Please select a language:",
-    "language_selected": "Your language has been selected. Please send a YouTube viedo link, and I will send you the video file."
+    "language_selected": "Your language has been selected. Please send a YouTube viedo link, and I will send you the video file.",
+    "valid_link": "Link is valid, processing...",
+    "invalid_link": "Please send a valid YouTube link."
 }
